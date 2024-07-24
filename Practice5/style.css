@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+p{
+    padding: 10px;
+}
+.heading{
+    border-radius: 7px;
+    border: solid;
+    font-family: sans-serif;
+    background-color: white;
+}
+.button-1{
+    border: none;
+    background-color:blue;
+    font-family: sans-serif;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button-2{
+    border: none;
+    background-color:orange;
+    font-family: sans-serif;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button-3{
+    border: none;
+    background-color:blueviolet;
+    font-family: sans-serif;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
